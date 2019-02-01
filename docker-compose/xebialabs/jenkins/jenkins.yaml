@@ -12,7 +12,7 @@ jobs:
                           branch("master")
                           remote {
                             credentials('github-credentials')
-                            url('https://github.com/<your-github-username>/e-commerce-microservice.git')
+                            url('https://github.com/wlee1668/e-commerce-microservice.git')
                           }
                       }
                   }
